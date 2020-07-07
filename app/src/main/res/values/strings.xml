@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulario - Coursera</string>
+    <string name="tietName">Nombre</string>
+    <string name="tietBirthDate">Fecha de Nacimiento</string>
+    <string name="tietPhone">Número de Teléfono</string>
+    <string name="tietEmail">Correo Electrónico</string>
+    <string name="tietDescription">Descripción</string>
+    <string name="btnSave">Guardar</string>
+    <string name="tvTitle">Confirmar Datos</string>
+    <string name="tvNameLabel">Nombre:</string>
+    <string name="tvBirthDateLabel">Fecha de Nacimiento:</string>
+    <string name="tvPhoneLabel">Número de Teléfono:</string>
+    <string name="tvEmailLabel">Correo Electrónico:</string>
+    <string name="tvDescriptionLabel">Descripción:</string>
+    <string name="btnEdit">Editar Datos</string>
+</resources>
