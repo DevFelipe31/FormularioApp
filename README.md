@@ -4,7 +4,7 @@ Formulario que maneja los datos con Bundles e Intents para el Curso de Coursera 
 ## Activities
 
 ### Main Activity 
-![image](https://i.imgur.com/BXBd9IDl.jpg?display=inline-block) 
+![image](https://i.imgur.com/BXBd9IDl.jpg?display=inline-block?display=inline-block) 
 
 ![gif](https://media.giphy.com/media/h8b2RminPeaaRndMBp/giphy.gif?display=inline-block)
 
